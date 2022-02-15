@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Muskan",
+      "address": "Jaipur",
+      "email": "muskan@gmail.com",
+      "contact": "8502817601",
+      "id": "1"
+    },
+    {
+      "name": "Nishi Singh",
+      "address": "France",
+      "email": "nishi@gmail.com",
+      "contact": "8902817676",
+      "id": "3"
+    },
+    {
+      "name": "Twinkle khanna",
+      "address": "Dehli",
+      "email": "twinkle@gmail.com",
+      "contact": "6432817601",
+      "id": "5"
+    },
+    {
+      "name": "Neha Solanki",
+      "email": "neha@daffodilsw.co",
+      "contact": "9836451819",
+      "address": "Jaipur",
+      "id": "Nk8w5hJ"
+    },
+    {
+      "name": "Manisha Kumawat",
+      "email": "manisha@gmail.co",
+      "contact": "6376203031",
+      "address": "Dehli",
+      "id": "kZO3TLH"
+    }
+  ]
+}
